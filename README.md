@@ -1,5 +1,5 @@
 <h1>HI I am NILARNAB</h1>
-h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Clojure_logo.svg" alt="Clojure" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
