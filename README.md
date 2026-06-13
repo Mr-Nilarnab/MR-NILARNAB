@@ -29,12 +29,7 @@ AI-powered assistant built for productivity, experimentation, and automation.
 
 ---
 
-### 🧮 **AI UNIT CAL**
-A smart unit calculator with a modern UI and practical usability.
 
-<img src="https://github.com/user-attachments/assets/a0283ac7-2b8a-4da5-8dc1-7240e55ddd69" alt="AI Unit Cal" width="100%"/>
-
----
 
 ### ⚡ **TypeForge**
 Professional typing analytics & speed test engine  
@@ -43,7 +38,12 @@ Professional typing analytics & speed test engine
 <img src="https://github.com/user-attachments/assets/25b119af-c98b-4196-af31-6b1d97a13527" alt="TypeForge" width="100%"/>
 
 ---
+### 🧮 **AI UNIT CAL**
+A smart unit calculator with a modern UI and practical usability.
 
+<img src="https://github.com/user-attachments/assets/a0283ac7-2b8a-4da5-8dc1-7240e55ddd69" alt="AI Unit Cal" width="100%"/>
+
+---
 ### 🏆 **ADMITTED**
 Achievement and admission showcase project.
 
