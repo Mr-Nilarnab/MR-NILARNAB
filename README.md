@@ -1,16 +1,96 @@
-<h1>Hi I am NILARNAB</h1>
-<h3>*ADMITTED:</h3>
-<img width="1917" height="999" alt="bbnn" src="https://github.com/user-attachments/assets/a5c44e72-edd7-461b-adb7-9d76c055d706" />
-<img width="1917" height="999" alt="WhatsApp Image 2026-04-23 at 10 31 55 PM" src="https://github.com/user-attachments/assets/aed2168a-71e0-4d7f-9a00-cc7af2643bb6" />
+<h1 align="center">Hi 👋, I'm Nilarnab</h1>
+<h3 align="center">OS Power User • Linux Terminal Expert • AI Prompt Engineer • Builder</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-Nilarnab&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p>
+---
 
-<h2>*My Projects</h2>
-<h3>*NILARNAB AI</h3>
-<img width="1917" height="1006" alt="Image" src="https://github.com/user-attachments/assets/dd965834-7447-4c06-b2ac-6afde0f80841" />
-<h3>*AI UNIT CAL</h3>
-  <img width="2800" height="1800" alt="Screenshot 2026-04-25 215654" src="https://github.com/user-attachments/assets/a0283ac7-2b8a-4da5-8dc1-7240e55ddd69" />
+## 🚀 About Me
 
+I am a **systems-focused creator** with deep hands-on experience in **Operating Systems, Linux internals, and AI-driven development**.  
+I specialize in building **offline-first, zero-dependency tools** and leveraging **AI to ship complete, production-ready projects**.
 
+- 🧠 Strong knowledge of **Operating Systems (Windows, Linux, macOS)**
+- 💻 Advanced **Linux terminal & command-line workflows**
+- 🔧 Experienced in **OS installation, partitioning, bootloaders, and multi-boot setups**
+- 🤖 Deep understanding of **AI, Prompt Engineering, and AI-assisted development**
+- 🎯 Focus on **performance, reliability, and clean UI**
+
+---
+
+## 🧩 Featured Projects
+
+### 🤖 **NILARNAB AI**
+AI-powered assistant built for productivity, experimentation, and automation.
+
+<img src="https://github.com/user-attachments/assets/dd965834-7447-4c06-b2ac-6afde0f80841" alt="NILARNAB AI" width="100%"/>
+
+---
+
+### 🧮 **AI UNIT CAL**
+A smart unit calculator with a modern UI and practical usability.
+
+<img src="https://github.com/user-attachments/assets/a0283ac7-2b8a-4da5-8dc1-7240e55ddd69" alt="AI Unit Cal" width="100%"/>
+
+---
+
+### ⚡ **TypeForge**
+Professional typing analytics & speed test engine  
+**Offline-first • Zero-dependency • Commercial-grade**
+
+<img src="https://github.com/user-attachments/assets/25b119af-c98b-4196-af31-6b1d97a13527" alt="TypeForge" width="100%"/>
+
+---
+
+### 🏆 **ADMITTED**
+Achievement and admission showcase project.
+
+<img src="https://github.com/user-attachments/assets/4b182dc0-8e45-410a-98dc-9d679eae72bb" width="48%"/>
+<img src="https://github.com/user-attachments/assets/aed2168a-71e0-4d7f-9a00-cc7af2643bb6" width="49%"/>
+
+---
+
+## 🛠️ Skills & Expertise
+
+### 🖥️ Operating Systems
+- Windows (Advanced user & optimization)
+- Linux (Deep terminal & system-level knowledge)
+- macOS (Installation & system understanding)
+- Dual-boot & multi-boot setups
+- Disk partitioning, boot configuration, recovery
+
+### 🧑‍💻 Terminal & System Tools
+- Bash & Linux command-line utilities
+- System monitoring & optimization
+- File systems & process management
+- Offline system tools
+
+### 🤖 Artificial Intelligence
+- Prompt Engineering (Advanced)
+- AI-assisted application development
+- Workflow automation using AI
+- Designing AI-first user experiences
+
+### 🌐 Web & UI
+- HTML • CSS • JavaScript
+- Offline-first web apps
+- Performance-focused UI/UX
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: **https://github.com/Mr-Nilarnab**
+- 💬 Open to collaboration, system-level projects, and AI-based tools
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
 </p>
