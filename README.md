@@ -38,6 +38,12 @@ Professional typing analytics & speed test engine
 <img src="https://github.com/user-attachments/assets/25b119af-c98b-4196-af31-6b1d97a13527" alt="TypeForge" width="100%"/>
 
 ---
+### 🌐 **NexaLearn**
+A ready made Educational web page.
+
+<img  src="https://github.com/user-attachments/assets/3117f82b-6735-4bb9-977b-fbd6c1c9cea7" alt="NexaLearn" width="100%" />
+
+---
 ### 🧮 **AI UNIT CAL**
 A smart unit calculator with a modern UI and practical usability.
 
