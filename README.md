@@ -22,6 +22,16 @@ I specialize in building **offline-first, zero-dependency tools** and leveraging
 
 ## 🧩 Featured Projects
 
+
+### 🏎️ **VELOCE**
+A WEBPAGE FOR USED CARS.
+
+<img src="https://github.com/user-attachments/assets/36041cf8-1079-4de1-9ef1-f356a3ef393d"  alt="NILARNAB" width="100%" />
+
+---
+
+
+
 ### 🤖 **NILARNAB AI**
 AI-powered assistant built for productivity, experimentation, and automation.
 
@@ -50,7 +60,7 @@ A smart unit calculator with a modern UI and practical usability.
 <img src="https://github.com/user-attachments/assets/a0283ac7-2b8a-4da5-8dc1-7240e55ddd69" alt="AI Unit Cal" width="100%"/>
 
 ---
-### 🏆 **ADMITTED**
+### 🏆 ** INVITED**
 Achievement and admission showcase project.
 
 <img src="https://github.com/user-attachments/assets/4b182dc0-8e45-410a-98dc-9d679eae72bb" width="48%"/>
