@@ -26,7 +26,7 @@ I specialize in building **offline-first, zero-dependency tools** and leveraging
 ### 🏎️ **VELOCE**
 A WEBPAGE FOR USED CARS.
 
-<img src="https://github.com/user-attachments/assets/36041cf8-1079-4de1-9ef1-f356a3ef393d"  alt="NILARNAB" width="100%" />
+<img  src="https://github.com/user-attachments/assets/78a8de04-9549-44a8-981c-c81d1a90989a"  alt="NILARNAB AI" width="100%" />
 
 ---
 
