@@ -24,7 +24,7 @@ I specialize in building **offline-first, zero-dependency tools** and leveraging
 
 
 ### **🪟 WINDOWs 12**
-WINDOWs 12.
+
   <img src="https://github.com/Mr-Nilarnab/Windows-12/blob/main/IMG-20260624-WA0007.jpg?raw=true" alt="NILARNAB AI" width="100%" />
   
 ---
