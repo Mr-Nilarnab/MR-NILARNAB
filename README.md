@@ -8,7 +8,7 @@
 ---
 ## 🚀 About Me
 
-I am a **systems-focused software developer** dedicated to building **real-world, high-impact open-source solutions** that make technology more accessible and useful for everyone. I combine **artificial intelligence, software engineering, and systems knowledge** to design scalable, production-ready applications that solve practical problems.
+I am a **systems-focused developer** dedicated to building **real-world, high-impact open-source solutions** that make technology more accessible and useful for everyone. I combine **artificial intelligence, software engineering, and systems knowledge** to design scalable, production-ready applications that solve practical problems.
 
 I actively contribute to the **open-source ecosystem**, believing that collaborative development drives innovation and creates lasting value for the global developer community. My workflow emphasizes **AI-assisted engineering**, enabling faster iteration while maintaining clean architecture, performance, and reliability.
 
