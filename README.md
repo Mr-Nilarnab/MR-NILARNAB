@@ -25,6 +25,17 @@ I actively contribute to the **open-source ecosystem**, believing that collabora
 
 ## 🧩 Featured Projects
 
+### 🏃 **ARC.RUNNER**
+A HIGH-OCTANE, EMBER-CORE EVASION ARCADE GAME.
+
+<a href="https://github.com/Mr-Nilarnab/ARC-RUNNER" target="_blank">
+  <img src="https://github.com/user-attachments/assets/15cf9c93-afbf-40da-a9b9-78c81b29ac80" alt="ARC.RUNNER" width="100%" />
+</a>
+
+https://github.com/Mr-Nilarnab/ARC-RUNNER
+
+
+---
 ### **🪟 WINDOWs 12**
 
 <a href="https://github.com/Mr-Nilarnab/Windows-12" target="_blank">
