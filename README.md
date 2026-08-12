@@ -166,7 +166,7 @@ A smart unit calculator with a modern UI and practical usability.
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
-### 🏆 ** INVITED**
+### 🏆 INVITED
 Achievement and admission showcase project.
 
 <img src="https://github.com/user-attachments/assets/4b182dc0-8e45-410a-98dc-9d679eae72bb" width="48%"/>
