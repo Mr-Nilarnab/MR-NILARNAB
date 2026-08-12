@@ -53,11 +53,9 @@ I actively contribute to the **open-source ecosystem**, believing collaborative 
 
 <div align="center">
 
-
-
-
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions&theme=dark" />
+
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="48" /><img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions,vim,sublime&theme=dark" /><img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" />
 
 </div>
 
