@@ -14,17 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-Nilarnab/Mr-Nilarnab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-Nilarnab/Mr-Nilarnab/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Mr-Nilarnab/Mr-Nilarnab/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-<sub>⚙️ Needs a one-time setup — see <code>snake.yml</code> below. Place it at <code>.github/workflows/snake.yml</code> in your <code>Mr-Nilarnab/Mr-Nilarnab</code> profile repo, push, and it renders automatically.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -59,6 +49,23 @@ I actively contribute to the **open-source ecosystem**, believing collaborative 
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
+## 🛠️ Systems & Tools
+
+<div align="center">
+
+
+
+
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions&theme=dark" />
+
+</div>
+
+<br/>
+
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
+
 ## 🧩 Featured Projects
 
 ### 🏃 ARC.RUNNER
@@ -73,6 +80,7 @@ High-octane, ember-core evasion arcade game.
 **[→ View Repository](https://github.com/Mr-Nilarnab/ARC-RUNNER)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### 🪟 WINDOWS 12
 A reimagined Windows-inspired desktop experience.
@@ -86,6 +94,7 @@ A reimagined Windows-inspired desktop experience.
 **[→ View Repository](https://github.com/Mr-Nilarnab/Windows-12)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### 🏎️ VELOCE
 A sleek web platform for used cars.
@@ -99,6 +108,7 @@ A sleek web platform for used cars.
 **[→ View Repository](https://github.com/Mr-Nilarnab/VELOCE)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### 🤖 NILARNAB AI
 AI-powered assistant built for productivity, experimentation, and automation.
@@ -112,6 +122,7 @@ AI-powered assistant built for productivity, experimentation, and automation.
 **[→ View Repository](https://github.com/Mr-Nilarnab/NILARNAB-AI)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### ⚡ TypeForge
 Professional typing analytics & speed test engine — offline-first, zero-dependency, commercial-grade.
@@ -125,6 +136,7 @@ Professional typing analytics & speed test engine — offline-first, zero-depend
 **[→ View Repository](https://github.com/Mr-Nilarnab/TypeForge)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### 🌐 NexaLearn
 A ready-made educational web platform.
@@ -138,6 +150,7 @@ A ready-made educational web platform.
 **[→ View Repository](https://github.com/Mr-Nilarnab/NEXALEARN)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### 🧮 JUSTCAL
 A smart unit calculator with a modern UI and practical usability.
@@ -151,6 +164,7 @@ A smart unit calculator with a modern UI and practical usability.
 **[→ View Repository](https://github.com/Mr-Nilarnab/JUSTCAL)**
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
 
 ### 🏆 ** INVITED**
 Achievement and admission showcase project.
@@ -160,11 +174,11 @@ Achievement and admission showcase project.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
-## 🛠️ Skills & Expertise
+## 👩🏻‍💻 Programming Languages
 
 <div align="center">
 
-**Programming Languages**
+
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-FF4500?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
@@ -175,74 +189,9 @@ Achievement and admission showcase project.
 
 <br/><br/>
 
-**Systems & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions&theme=dark" />
-
-</div>
-
-<br/>
-
-<table>
-<tr><td valign="top" width="50%">
-
-**🖥️ Operating Systems & Engineering**
-- Windows optimization & troubleshooting
-- Linux administration & terminal workflows
-- macOS installation & configuration
-- Multi-boot / dual-boot environments
-- Disk partitioning & storage management
-- Bootloaders, recovery & maintenance
-- Performance tuning
-
-</td><td valign="top" width="50%">
-
-**⚙️ Software Development**
-- Full-stack web development (Python, HTML, CSS, JS, Java, SQL)
-- Responsive & offline-first UI
-- Zero-dependency architecture
-- Cross-platform application design
-- Performance optimization
-- Automation & productivity tools
-
-</td></tr>
-<tr><td valign="top" width="50%">
-
-**🤖 Artificial Intelligence**
-- Advanced prompt engineering
-- AI-assisted software development
-- LLM workflow design & automation
-- Rapid prototyping with generative AI
-- AI integration for production apps
-
-</td><td valign="top" width="50%">
-
-**🚀 Open Source**
-- Active contributor: NASA, Microsoft, Google, Cal.com
-- Documentation improvements
-- Bug fixes & feature contributions
-- Community-driven development
-
-</td></tr>
-</table>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Nilarnab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&ring_color=FF4500&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Nilarnab&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Nilarnab&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=10" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Nilarnab&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF&area=true&hide_border=true" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Nilarnab&theme=onedark&no-frame=true&column=4&margin-w=12&margin-h=12" width="90%"/>
-
-</div>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
 ## 📫 Connect With Me
 
