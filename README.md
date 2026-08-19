@@ -49,18 +49,17 @@ I actively contribute to the **open-source ecosystem**, believing collaborative 
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
-## 🛠️ Systems & Tools
+🛠️ Systems & Tools
 
 <div align="center">
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="48" /><img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions,vim,sublime&theme=dark" /><img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="48" />  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="48" height="48" /> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" />  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" /> <img src="https://cdn.simpleicons.org/torbrowser/7E4798" width="48" height="48" /> <img src="https://cdn.simpleicons.org/brave/FB542B" width="48" height="48" /><img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions,vim,sublime&theme=dark" /> <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" />
 
 </div>
 
 <br/>
-
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
