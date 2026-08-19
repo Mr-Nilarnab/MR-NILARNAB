@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5A1A0A,100:FF4500&height=260&section=header&text=NILARNAB&fontSize=80&fontColor=FFFFFF&fontAlignY=32&desc=Systems%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5A1A0A,100:FF4500&height=260&section=header&text=NILARNAB&fontSize=80&fontColor=FFFFFF&fontAlignY=32&desc=Systems%20Developer%20%7C%20AI%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=52&descSize=19&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Mr-Nilarnab">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=800&color=FF4500&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;AI-POWERED+SOFTWARE+DEVELOPER;OPEN-SOURCE+CONTRIBUTOR;BUILDING+FOR+NASA+%7C+MICROSOFT+%7C+GOOGLE" alt="Typing SVG" />
