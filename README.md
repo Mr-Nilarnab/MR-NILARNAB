@@ -32,30 +32,27 @@
 ```
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
-
 ## 👋 About Me
 
-I am a **systems-focused developer** dedicated to building **real-world, high-impact open-source solutions** that make technology more accessible and useful for everyone. I combine **artificial intelligence, software engineering, and systems knowledge** to design scalable, production-ready applications that solve practical problems.
+I’m a **systems-focused developer and open-source contributor** dedicated to building fast, resilient software that solves real-world problems. My work lives at the intersection of **systems architecture, full-stack development, and applied AI**—turning complex technical bottlenecks into clean, maintainable applications that scale.
 
-I actively contribute to the **open-source ecosystem**, believing collaborative development drives innovation and creates lasting value for the global developer community. My workflow emphasizes **AI-assisted engineering** — faster iteration without sacrificing clean architecture, performance, or reliability.
+I believe great software is built in public through shared craft. By pairing deep low-level system knowledge with modern AI-assisted workflows, I ship production-grade code quickly without ever cutting corners on performance or reliability.
 
-- 🌍 Active **Open Source Contributor** — PRs submitted to projects tied to **NASA, Microsoft, Google, and Cal.com**
-- 🧠 Strong foundation across **Windows, Linux, and macOS** systems engineering
-- 💻 Experienced in **system architecture, software development, and performance optimization**
-- 🤖 Advanced in **AI, Prompt Engineering, and AI-assisted software development**
-- 🚀 Building **real-world applications** focused on usability, scalability, and maintainability
-- ⚡ Using **AI to accelerate open-source development** and turn ideas into production-ready projects
-- 🎯 Committed to **clean, efficient, reliable code**
+- 🌍 **Open Source Contributor** — Contributing code and PRs to ecosystems tied to **Microsoft** and **Cal.com**
+- 🧠 **Systems & OS Fluency** — Hands-on architectural experience across **Linux, Windows, and macOS** environments
+- ⚡ **Full-Stack & Performance** — Building responsive web interfaces, scalable backends, and optimized data pipelines
+- 🎯 **Craft Over Hype** — Focused on clean architecture, readable codebases, and shipping tools people actually rely on
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
-🛠️ Systems & Tools
+### 🛠️ Systems & Tools
 
 <div align="center">
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="48" />  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="48" height="48" /> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" />  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" /> <img src="https://cdn.simpleicons.org/torbrowser/7E4798" width="48" height="48" /> <img src="https://cdn.simpleicons.org/brave/FB542B" width="48" height="48" /><img src="https://skillicons.dev/icons?i=linux,windows,apple,git,github,vscode,githubactions,vim,sublime&theme=dark" /> <img src="https://cdn.simpleicons.org/android/3DDC84" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=js,html,css,py,mongodb,linux,windows,apple,git,github&theme=dark" />
+<br/><br/>
 
 </div>
 
@@ -64,6 +61,24 @@ I actively contribute to the **open-source ecosystem**, believing collaborative 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
 ## 🧩 Featured Projects
+
+
+### 🗓️ COMEBACK TIMER
+
+<a href="https://github.com/Mr-Nilarnab/Come-Back-Timer-Interactive-Flip-Calendar-Flip-Clock">
+<img width="1919" height="1079" alt="Screenshot 2026-11-20 212035" src="https://github.com/user-attachments/assets/407aec48-a9b1-428b-84fa-2c05edd5ec17" />
+
+
+
+<img src="https://img.shields.io/github/repo-size/Mr-Nilarnab/Windows-12?style=flat-square&color=FF4500&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/Mr-Nilarnab/Windows-12?style=flat-square&color=FF4500&labelColor=0D1117"/>
+
+**[→ View Repository](https://github.com/Mr-Nilarnab/Come-Back-Timer-Interactive-Flip-Calendar-Flip-Clock)**
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
+
+
+
 
 ### 🏃 ARC.RUNNER
 High-octane, ember-core evasion arcade game.
