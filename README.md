@@ -32,7 +32,8 @@
 ```
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
-## 👋 About Me
+
+### 👋 About Me
 
 I’m a **systems-focused developer and open-source contributor** dedicated to building fast, resilient software that solves real-world problems. My work lives at the intersection of **systems architecture, full-stack development, and applied AI**—turning complex technical bottlenecks into clean, maintainable applications that scale.
 
@@ -61,6 +62,24 @@ I believe great software is built in public through shared craft. By pairing dee
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/></div>
 
 ## 🧩 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
+
+### ☠️ JEE CPT TEST fan made
+Fan made version
+
+<a href="https://github.com/Mr-Nilarnab/JEE_Main_CBT-FAN-MADE">
+<img width="1897" height="953" alt="Screenshot 2026-11-20 230425" src="https://github.com/user-attachments/assets/015f552a-d2ca-4db6-9fd0-c4de8fe39439" />
+
+
+
+<img src="https://img.shields.io/github/repo-size/Mr-Nilarnab/Windows-12?style=flat-square&color=FF4500&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/Mr-Nilarnab/Windows-12?style=flat-square&color=FF4500&labelColor=0D1117"/>
+
+**[→ View Repository](https://github.com/Mr-Nilarnab/JEE_Main_CBT-FAN-MADE)**
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF4500,100:0D1117&height=3&animation=fadeIn" width="100%"/>
+
+
 
 
 ### 🗓️ COMEBACK TIMER
